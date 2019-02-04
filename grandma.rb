@@ -4,7 +4,7 @@
 def speak_to_grandma(phrase)
 # Whatever you say to grandma, she should respond with
 if phrase == "I LOVE YOU GRANDMA"
-  prints "I LOVE YOU TOO PUMPKIN!"
+  puts "I LOVE YOU TOO PUMPKIN!"
 end
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
